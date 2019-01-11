@@ -27,7 +27,7 @@ Parameters  
 Example 
 --------
 
-You want to close the window that has index 1.
+You want to close the window with the given URL.
 
 ```groovy
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
